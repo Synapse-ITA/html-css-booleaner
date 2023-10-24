@@ -1,5 +1,9 @@
+
+
+
+
 header {
-    background-color: lightblue
+    background-color: rgb(171, 229, 252);
 }
 
 #Logo {
@@ -26,9 +30,24 @@ header {
 }
 
 .paragrafo3 {
-    margin-top: -20px
+    margin-top: -5px
 }
 
-.centering {
-    margin left: 100px;
+
+.color-white {
+    color: white;
 }
+
+.bg-footer {
+    background-color: rgb(65, 63, 180);
+    height: 50px;
+    text-align: center;
+    padding-bottom: 30px;   
+    margin-bottom: -10px;
+}
+
+.paragrafo-footer {
+    padding-top: 30px;
+    color: white;
+}
+
