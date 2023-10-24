@@ -23,10 +23,12 @@ header {
 
 .paragrafo {
     margin-top: -28px;
+    color: gray;
 }
 
 .paragrafo2 {
-    margin-top: -20px
+    margin-top: -20px;
+    color: gray;
 }
 
 .paragrafo3 {
