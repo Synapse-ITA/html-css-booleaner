@@ -1,18 +1,34 @@
-* 
 header {
     background-color: lightblue
-
-}
-
-.color-gray {
-    color: gray;
 }
 
 #Logo {
     width: 200px;
     height: 110px;
+    margin-left: 80px;
 }
 
 
+.table-th {
+    background-color:lightskyblue;
+}
 
+.table-td {
+    background-color: rgb(197, 228, 250);
+}
 
+.paragrafo {
+    margin-top: -28px;
+}
+
+.paragrafo2 {
+    margin-top: -20px
+}
+
+.paragrafo3 {
+    margin-top: -20px
+}
+
+.centering {
+    margin left: 100px;
+}
