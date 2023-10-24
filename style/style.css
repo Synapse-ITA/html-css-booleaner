@@ -1,20 +1,14 @@
-
 header {
     background-color: rgb(171, 229, 252);
     margin-top: -10px;
     margin-left: -10px;
-    margin-right: -10px;
+    margin-right: -20px;
 }
 
 #Logo {
     width: 200px;
     height: 110px;
     margin-left: 80px;
-}
-
-#Logo2 {
-width: fit-content;
-
 }
 
 .table-space {
@@ -26,13 +20,13 @@ width: fit-content;
 }
 
 .table-th {
-    background-color:rgb(127, 166, 251);
+    background-color: rgb(127, 166, 251);
     text-align: left;
     color: white;
 }
 
 .table-td {
-    background-color: rgb(223, 229, 242); 
+    background-color: rgb(223, 229, 242);
 }
 
 .paragrafo {
@@ -62,7 +56,7 @@ width: fit-content;
     margin-bottom: -20px;
     margin-right: -20px;
     margin-left: -20px;
-    }
+}
 
 .paragrafo-footer {
     text-align: center;
